@@ -1,0 +1,177 @@
+00F — Uncertainty and Black-Swan Stress Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed systems exposed to uncertainty, shock, tail risk, or systemic failure
+
+
+I. PURPOSE
+
+This Control forces systems to acknowledge uncertainty before it destroys them.
+
+No system may assume normal conditions.
+No authority may deny the existence of unknowns.
+No program may operate without declared failure modes.
+
+Uncertainty ignored becomes catastrophe.
+
+
+II. GOVERNING PRINCIPLE
+
+Risk can be measured.
+Uncertainty cannot.
+
+Systems must therefore be designed to fail safely, degrade gracefully, and terminate automatically when reality diverges from assumptions.
+
+
+III. DEFINITIONS
+
+Risk  
+A known probability distribution of outcomes.
+
+Uncertainty  
+Outcomes or conditions that cannot be reliably modeled, forecast, or priced.
+
+Black Swan  
+A low-frequency, high-impact event outside modeled expectations that materially alters system assumptions.
+
+Stress Event  
+Any condition that invalidates baseline assumptions, cost models, performance metrics, or operational feasibility.
+
+
+IV. UNCERTAINTY DECLARATION REQUIREMENTS
+
+Rule F1 — Mandatory Uncertainty Disclosure  
+Every AGCL node must declare:
+- Known risks
+- Known unknowns
+- Assumptions underlying normal operation
+- Conditions under which assumptions fail
+
+Silence constitutes noncompliance.
+
+
+Rule F2 — Prohibition on Certainty Claims  
+No authority may claim comprehensive control, prediction, or foresight.
+
+Claims of certainty invalidate authority.
+
+
+V. STRESS SCENARIO REQUIREMENTS
+
+Rule F3 — Mandatory Stress Scenarios  
+Each node must define stress scenarios, including:
+- Economic shock
+- Supply disruption
+- Political disruption
+- Technological failure
+- Legal invalidation
+- Loss of participation or consent
+
+Scenarios must include worst-case bounds.
+
+
+Rule F4 — Stress Testing Interval  
+Stress scenarios must be tested on a fixed cycle.
+
+Untested scenarios are treated as failures.
+
+
+VI. FAILURE MODE DECLARATION
+
+Rule F5 — Failure Mode Transparency  
+Each node must declare:
+- How it fails
+- How failure is detected
+- How failure is contained
+- How failure terminates authority
+
+Failure without declaration triggers suspension.
+
+
+Rule F6 — Graceful Degradation Requirement  
+Systems must degrade in stages, not collapse suddenly.
+
+Cliff-edge designs are prohibited.
+
+
+VII. AUTOMATIC RESPONSE RULES
+
+Rule F7 — Threshold Triggers  
+Predefined thresholds must trigger:
+- Automatic downgrade
+- Scope reduction
+- Funding reduction
+- Authority suspension
+- Program termination
+
+Discretionary delay is prohibited.
+
+
+Rule F8 — No Bailout Presumption  
+No node may assume rescue, bailout, backstop, or emergency override.
+
+Rescue must be explicitly authorized and time-bound.
+
+
+VIII. CROSS-NODE CONTAINMENT
+
+Rule F9 — Failure Isolation  
+Failure in one node may not propagate by default.
+
+Cross-node contagion requires explicit authorization.
+
+
+IX. EMERGENCY CONDITIONS
+
+Rule F10 — Emergency Does Not Cancel Uncertainty  
+Emergency declarations:
+- Do not negate uncertainty
+- Do not suspend stress rules
+- Do not justify assumption override
+
+Emergency accelerates, it does not excuse.
+
+
+X. ENFORCEMENT
+
+Rule F11 — Automatic Suspension  
+Failure to comply with this Control triggers immediate suspension of authority.
+
+No vote required.
+No judicial action required.
+
+
+Rule F12 — Personal Liability  
+Officials who suppress uncertainty disclosures or delay trigger execution lose immunity protections.
+
+
+XI. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency powers
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+Uncertainty is prior to authority.
+
+
+XII. SYSTEM INTEGRATION
+
+This Control governs:
+- Monetary systems
+- Taxation systems
+- Healthcare systems
+- Retirement systems
+- Trusts and funds
+- Any long-duration program
+
+No AGCL node is exempt.
+
+
+XIII. DECLARATION
+
+Systems fail not because they face uncertainty,
+but because they pretend it does not exist.
+
+This Control ensures uncertainty is surfaced before it becomes fatal.

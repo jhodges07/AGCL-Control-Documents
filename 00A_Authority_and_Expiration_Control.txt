@@ -1,0 +1,183 @@
+00A — Authority and Expiration Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed authority, programs, funds, offices, mechanisms, and delegated powers
+
+
+I. PURPOSE
+
+This Control establishes authority mortality as a governing principle of the AGCL system.
+
+No authority may exist by inertia.
+No power may persist without proof.
+No program may survive its purpose.
+
+Authority exists only to solve a defined problem, for a defined duration, under defined performance constraints, and expires automatically when those conditions are not met.
+
+
+II. GOVERNING PRINCIPLE
+
+All authority is conditional, temporary, and revocable by structure.
+
+Authority is not legitimacy.
+Authority is not permanence.
+Authority is a tool with a timer.
+
+
+III. DEFINITIONS
+
+Authority  
+Any legal, fiscal, regulatory, administrative, monetary, or enforcement power exercised under AGCL, including but not limited to programs, boards, trusts, funds, agencies, mandates, rules, or delegated functions.
+
+Authorization Window  
+The fixed period during which authority is valid.
+
+Reauthorization Event  
+A mandatory review at the close of each authorization window.
+
+Variance  
+Any material deviation from declared purpose, cost range, scope, duration, or constitutional basis.
+
+
+IV. AUTHORITY CREATION REQUIREMENTS
+
+No authority may be created unless all of the following are explicitly declared at inception:
+
+1. Purpose Statement  
+   The specific problem the authority exists to solve.
+
+2. Scope Boundary  
+   What the authority may and may not do.
+
+3. Duration  
+   A fixed expiration date or cycle count.
+
+4. Performance Metrics  
+   Observable criteria by which success or failure is measured.
+
+5. Exit Condition  
+   The condition under which the authority terminates early.
+
+6. Constitutional Basis  
+   The enumerated power or amendment permitting the authority.
+
+Authorities lacking any required declaration are null and void.
+
+
+V. AUTHORITY EXPIRATION RULES
+
+Rule A1 — Mandatory Expiration  
+All authority expires automatically at the end of its authorization window.
+
+No extensions by default.  
+No implied continuity.  
+No emergency rollover.
+
+Rule A2 — Reauthorization Burden  
+Reauthorization requires affirmative action.
+
+Silence equals expiration.  
+Delay equals expiration.  
+Failure to vote equals expiration.
+
+Rule A3 — Performance Failure Termination  
+Authority terminates immediately if:
+- Performance metrics are unmet, or
+- Variance exceeds declared tolerance, or
+- Purpose is achieved, or
+- Purpose becomes obsolete.
+
+Rule A4 — Emergency Authority Limitation  
+Emergency authority:
+- Must declare an emergency condition
+- Must specify a shortened authorization window
+- May not exceed one cycle without reauthorization
+- May not convert into permanent authority
+
+Emergency does not suspend expiration.
+
+
+VI. VARIANCE AND SUSPENSION
+
+Rule A5 — Automatic Suspension  
+Any unresolved variance triggers immediate suspension of authority until corrected.
+
+Suspension requires no vote.  
+Suspension requires no judicial action.  
+Suspension is mechanical.
+
+Rule A6 — Scope Creep Prohibition  
+Expansion of authority scope without reauthorization is prohibited.
+
+Unauthorized expansion results in:
+- Immediate suspension
+- Mandatory review
+- Retroactive invalidation of excess actions
+
+
+VII. DELEGATION AND SUB-AUTHORITY
+
+Rule A7 — Delegation Inherits Mortality  
+Delegated authority:
+- Inherits the expiration date of the parent authority
+- Cannot outlive the originating authority
+- Cannot expand scope independently
+
+No orphaned power is permitted.
+
+
+VIII. FUNDING AND AUTHORITY LINKAGE
+
+Rule A8 — Funding Does Not Create Authority  
+Appropriations do not legitimize authority.
+
+If authority expires:
+Funding halts automatically.
+
+Rule A9 — Unspent Funds on Expiration  
+Upon expiration:
+- Unspent funds revert according to Property Rights and Pooling Control (00C)
+- No funds may be repurposed without reauthorization
+
+
+IX. ENFORCEMENT
+
+Rule A10 — Automatic Invalidity  
+Actions taken under expired or suspended authority are legally void.
+
+No ratification after the fact.  
+No retroactive forgiveness.
+
+Rule A11 — Personal Liability Shield Removal  
+Officials acting under expired authority lose immunity protections for those actions.
+
+
+X. NON-OVERRIDABILITY
+
+This Control may not be suspended, bypassed, or overridden by:
+- Emergency declarations
+- Executive orders
+- Budget acts
+- Judicial delay
+- Administrative rulemaking
+
+Any attempt to bypass this Control invalidates the action.
+
+
+XI. SYSTEM INTEGRATION
+
+This Control governs and supersedes:
+- All AGCL policy nodes
+- All fiscal and monetary mechanisms
+- All trusts, lockboxes, and funds
+- All regulatory or enforcement authority
+
+No AGCL component is exempt.
+
+
+XII. DECLARATION
+
+Authority exists to serve reality.
+When authority outlives reality, liberty collapses.
+
+This Control ensures authority dies before liberty does.

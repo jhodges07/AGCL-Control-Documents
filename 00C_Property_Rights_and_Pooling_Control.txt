@@ -1,0 +1,188 @@
+00C — Property Rights and Pooling Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed assets, accounts, funds, taxes, trusts, benefits, and pooled mechanisms
+
+
+I. PURPOSE
+
+This Control establishes property rights as prior to governance.
+
+No asset may be pooled before ownership is defined.
+No benefit may be distributed without clear title.
+No liability may be imposed without consent or exit.
+
+Pooling is permitted only after property rights are explicit, traceable, and reversible.
+
+
+II. GOVERNING PRINCIPLE
+
+Ownership precedes authority.
+
+Property that is not owned cannot be governed.
+Pooling without ownership is confiscation.
+Redistribution without title is coercion.
+
+
+III. DEFINITIONS
+
+Property  
+Any asset, income, contribution, account, credit, entitlement, benefit, or claim governed by AGCL, whether monetary or non-monetary.
+
+Owner  
+The natural person holding legal title to property, with the right to use, exclude, transfer, inherit, or exit.
+
+Pooling  
+Any aggregation of property, funds, risk, revenue, or obligation across multiple owners.
+
+Reversion  
+The automatic return of property or value to its owner upon termination, exit, or failure.
+
+
+IV. OWNERSHIP DECLARATION REQUIREMENTS
+
+Rule C1 — Mandatory Ownership Declaration  
+Every node must declare ownership for all property it touches.
+
+Declarations must specify:
+- Owner
+- Title type
+- Transfer conditions
+- Inheritance rules
+- Exit disposition
+
+Property without declared ownership is invalid for pooling.
+
+
+Rule C2 — Individual Title Default  
+Absent explicit declaration, property is presumed individually owned.
+
+Government bears the burden of proof for any alternative claim.
+
+
+V. POOLING PERMISSIONS
+
+Rule C3 — Conditional Pooling Only  
+Pooling is permitted only if:
+- Ownership is explicit prior to pooling
+- Participation is voluntary or includes a defined exit
+- Pool purpose is limited and declared
+- Pool duration is finite
+- Reversion rules are specified
+
+All five conditions are mandatory.
+
+
+Rule C4 — No Involuntary Permanent Pools  
+No property may be permanently pooled without ongoing consent.
+
+Silence is not consent.
+Continuation is not consent.
+Participation must be reaffirmable.
+
+
+VI. POOL FAILURE AND REVERSION
+
+Rule C5 — Automatic Reversion on Failure  
+If a pool fails its purpose, exceeds duration, or violates scope:
+- Pooling terminates immediately
+- Remaining value reverts to owners
+- No cross-subsidization is permitted
+
+Failure resolves to owners, not administrators.
+
+
+Rule C6 — Prohibition on Liability Transfer  
+Owners may not inherit liabilities created by pooled failure beyond their contributed value.
+
+No negative inheritance.
+No open-ended claims.
+
+
+VII. TAXATION AND PROPERTY
+
+Rule C7 — Taxes Do Not Transfer Ownership  
+Payment of tax does not transfer title to future income, assets, or labor.
+
+Taxes confer no claim beyond the declared obligation.
+
+
+Rule C8 — Prohibition on Property Tax Without Title  
+No recurring tax may be imposed on owned property absent a corresponding ownership claim by the taxing authority.
+
+Ownership without title is prohibited.
+
+
+VIII. TRUSTS, FUNDS, AND ACCOUNTS
+
+Rule C9 — Trust Partitioning  
+All trusts, lockboxes, and funds must:
+- Maintain individual account partitions
+- Preserve owner identity
+- Prohibit commingling beyond declared pooling
+
+Partitions are inviolable.
+
+
+Rule C10 — Inheritance Guarantee  
+Individually owned property is fully inheritable.
+
+Beneficiaries must be named.
+Escheat without consent is prohibited.
+
+
+IX. GOVERNMENT BORROWING AND USE
+
+Rule C11 — Borrowing Requires Owner Consent  
+Use of pooled property for borrowing requires:
+- Declared terms
+- Declared duration
+- Declared repayment source
+- Declared owner benefit
+
+Undeclared borrowing is confiscation.
+
+
+X. ENFORCEMENT
+
+Rule C12 — Automatic Invalidity  
+Any action violating ownership or pooling rules is void.
+
+No retroactive cure.
+No political ratification.
+
+
+Rule C13 — Personal Liability  
+Officials authorizing unlawful pooling or confiscation lose immunity protections.
+
+
+XI. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency powers
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+Property rights are prior to governance.
+
+
+XII. SYSTEM INTEGRATION
+
+This Control governs:
+- FairTax mechanisms
+- Sinking funds
+- Retirement systems
+- Healthcare accounts
+- Public ledgers
+- Debt instruments
+
+No AGCL node is exempt.
+
+
+XIII. DECLARATION
+
+A free system begins with ownership.
+A coercive system begins with pooling.
+
+This Control ensures property is never governed before it is owned.

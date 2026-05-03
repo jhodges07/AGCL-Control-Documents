@@ -1,0 +1,160 @@
+00J — System Amendment and Version Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL control documents, policy nodes, mechanisms, and future revisions
+
+
+I. PURPOSE
+
+This Control prevents silent mutation of the AGCL system.
+
+No system remains free if it changes invisibly.
+No authority may evolve without consent.
+No structure may drift by accumulation.
+
+Change must be explicit, recorded, and bounded.
+
+
+II. GOVERNING PRINCIPLE
+
+Governance without version control becomes arbitrary.
+
+What cannot be versioned cannot be trusted.
+What cannot be audited cannot be consented to.
+What changes without record ceases to be law.
+
+
+III. DEFINITIONS
+
+Amendment  
+Any modification, addition, deletion, or reinterpretation of an AGCL Control or policy node.
+
+Version  
+A uniquely identified state of the AGCL system at a specific point in time.
+
+Change Log  
+A permanent public record of all amendments, including rationale and scope.
+
+
+IV. VERSIONING REQUIREMENTS
+
+Rule J1 — Mandatory Version Identification  
+All AGCL documents must display:
+- Version number
+- Adoption date
+- Superseded version (if applicable)
+
+Undated or unversioned documents are invalid.
+
+
+Rule J2 — Immutable Historical Record  
+Prior versions may not be altered or erased.
+
+Corrections require new versions.
+History is additive, not replaceable.
+
+
+V. AMENDMENT PROCEDURE
+
+Rule J3 — Explicit Amendment Requirement  
+No change is valid unless:
+- Explicitly proposed
+- Explicitly documented
+- Explicitly adopted
+
+Implicit change is void.
+
+
+Rule J4 — Scope Declaration  
+Each amendment must declare:
+- Affected documents
+- Sections altered
+- Intended effect
+- Unintended risks
+
+Undeclared scope invalidates the amendment.
+
+
+VI. PUBLIC DISCLOSURE
+
+Rule J5 — Mandatory Publication  
+All amendments must be published in the public ledger prior to taking effect.
+
+Secret amendments are void.
+
+
+Rule J6 — Notice Interval  
+Amendments require a defined notice period before activation.
+
+Retroactive amendments are prohibited.
+
+
+VII. COMPATIBILITY AND CASCADE CHECKS
+
+Rule J7 — Control Compatibility Review  
+No amendment may:
+- Contradict existing Controls
+- Weaken enforcement
+- Bypass exit rights
+- Extend authority duration implicitly
+
+Conflicting amendments are void.
+
+
+Rule J8 — Cascade Impact Declaration  
+Amendments must disclose downstream effects on:
+- Authority
+- Property rights
+- Exit mechanics
+- Debt obligations
+
+Silence constitutes noncompliance.
+
+
+VIII. EMERGENCY AMENDMENTS
+
+Rule J9 — Emergency Limitation  
+Emergency amendments:
+- Must be narrowly scoped
+- Must include an expiration
+- May not alter foundational Controls (00A–00I)
+
+Emergency does not permit permanence.
+
+
+IX. ENFORCEMENT
+
+Rule J10 — Automatic Invalidity  
+Amendments adopted outside this Control are void.
+
+
+Rule J11 — Personal Liability  
+Officials who enact or enforce invalid amendments lose immunity protections.
+
+
+X. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+Process is prior to power.
+
+
+XI. SYSTEM INTEGRATION
+
+This Control governs:
+- All AGCL Controls
+- All policy nodes
+- All future system evolution
+
+No component is exempt.
+
+
+XII. DECLARATION
+
+A free system remembers its changes.
+
+This Control ensures AGCL evolves by consent, not drift.

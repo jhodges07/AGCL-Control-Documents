@@ -1,0 +1,173 @@
+00E — Debt and Intergenerational Liability Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed borrowing, debt instruments, guarantees, obligations, and future commitments
+
+
+I. PURPOSE
+
+This Control binds debt to time, ownership, and consent.
+
+No generation may obligate another without disclosure.
+No debt may exist without a defined end.
+No liability may be imposed on the unborn by inertia.
+
+Debt must die before citizens do.
+
+
+II. GOVERNING PRINCIPLE
+
+Debt is deferred authority.
+
+If authority must expire, so must debt.
+If consent is required today, it is required tomorrow.
+Intergenerational obligation without consent is theft by time.
+
+
+III. DEFINITIONS
+
+Debt  
+Any borrowed funds, issued credit, guarantee, bond, obligation, promise of future payment, or unfunded liability.
+
+Intergenerational Liability  
+Any obligation whose cost, risk, or repayment extends beyond the consenting generation.
+
+Payer Class  
+The defined group responsible for repayment.
+
+Sunset  
+The fixed termination date beyond which no obligation may exist.
+
+
+IV. DEBT CREATION REQUIREMENTS
+
+Rule E1 — Mandatory Debt Declaration  
+No debt may be created unless all of the following are declared at inception:
+
+- Purpose of the debt  
+- Principal amount or range  
+- Duration and maturity date  
+- Payer class  
+- Repayment source  
+- Sunset condition  
+- Constitutional basis
+
+Debt lacking any declaration is void.
+
+
+Rule E2 — Duration Requirement  
+All debt must include a fixed maturity.
+
+Perpetual debt is prohibited.
+Rolling extensions are prohibited.
+
+
+V. INTERGENERATIONAL CONSTRAINTS
+
+Rule E3 — Consent Boundary  
+No debt may impose repayment on a future generation without explicit structural protection.
+
+Unfunded promises are prohibited.
+Assumed growth is not consent.
+
+
+Rule E4 — Prohibition on Unfunded Liabilities  
+Programs creating future payment obligations without dedicated funding are invalid.
+
+Promises without assets are void.
+
+
+VI. BORROWING LIMITS
+
+Rule E5 — Enumerated Purpose Limitation  
+Debt may only be issued for purposes explicitly authorized by law and enumerated authority.
+
+Debt for redistribution, administration, or permanent programs is prohibited.
+
+
+Rule E6 — Debt Scope Containment  
+Debt must be node-scoped.
+
+Failure in one node may not be offset by another.
+No global absorption of liability.
+
+
+VII. REPAYMENT AND EXTINCTION
+
+Rule E7 — Mandatory Amortization  
+All debt must amortize toward zero.
+
+Interest-only structures are prohibited.
+Deferred principal is prohibited.
+
+
+Rule E8 — Early Retirement Incentive  
+Early repayment is permitted and encouraged.
+
+No penalties for early extinction of debt.
+
+
+VIII. DEBT FAILURE AND DEFAULT
+
+Rule E9 — Failure Resolution  
+If repayment conditions fail:
+- New borrowing halts automatically
+- Authority tied to the debt suspends
+- Assets revert according to Property Rights and Pooling Control (00C)
+
+Default resolves to structure, not discretion.
+
+
+IX. EMERGENCY BORROWING
+
+Rule E10 — Emergency Debt Limitation  
+Emergency debt:
+- Must declare the emergency
+- Must include a shortened maturity
+- May not exceed one cycle without reauthorization
+- May not convert into permanent obligation
+
+Emergency does not suspend extinction.
+
+
+X. ENFORCEMENT
+
+Rule E11 — Automatic Invalidity  
+Debt issued in violation of this Control is void.
+
+No ratification.
+No retroactive justification.
+
+
+Rule E12 — Personal Liability  
+Officials authorizing unlawful debt lose immunity protections.
+
+
+XI. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+Debt discipline is prior to politics.
+
+
+XII. SYSTEM INTEGRATION
+
+This Control governs:
+- National borrowing
+- Trust fund obligations
+- Guarantees and backstops
+- Healthcare and retirement promises
+- Any future-dated commitment
+
+No AGCL node is exempt.
+
+
+XIII. DECLARATION
+
+A nation that borrows without end mortgages its children.
+
+This Control ensures debt ends before liberty does.

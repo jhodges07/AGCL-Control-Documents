@@ -1,0 +1,178 @@
+00G — Transparency and Public Ledger Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed programs, authorities, funds, trusts, taxes, debts, and enforcement actions
+
+
+I. PURPOSE
+
+This Control guarantees public visibility into the existence, scope, cost, duration, and authority of all AGCL-governed activity.
+
+Transparency is not optional.
+Opacity is not neutral.
+Hidden authority is illegitimate authority.
+
+
+II. GOVERNING PRINCIPLE
+
+Citizens may be governed only by what they can see.
+
+Secrecy may protect details.
+It may not protect existence.
+It may not protect authority.
+It may not protect cost.
+
+
+III. DEFINITIONS
+
+Public Ledger  
+A continuously updated, publicly accessible record of AGCL-governed nodes and actions.
+
+Node  
+Any discrete program, authority, fund, trust, mandate, tax mechanism, debt instrument, or enforcement power governed by AGCL.
+
+Disclosure  
+The publication of required information in the public ledger.
+
+
+IV. MANDATORY DISCLOSURE REQUIREMENTS
+
+Rule G1 — Existence Disclosure  
+Every node must disclose, at minimum:
+- Legal name and identifier
+- Purpose
+- Authorizing authority
+- Start date
+- Expiration date
+
+Nodes without existence disclosure are invalid.
+
+
+Rule G2 — Cost and Exposure Disclosure  
+Each node must disclose:
+- Cost range
+- Funding source
+- Financial exposure
+- Debt or guarantee involvement
+
+Exact figures may be delayed.
+Ranges may not be hidden.
+
+
+Rule G3 — Authority and Scope Disclosure  
+Each node must disclose:
+- Scope boundaries
+- Enforcement powers
+- Delegated authorities
+- Exit mechanics
+
+Undisclosed authority is void.
+
+
+V. TIME AND STATUS DISCLOSURE
+
+Rule G4 — Status Signaling  
+The public ledger must display:
+- Active
+- Suspended
+- Expired
+- Terminated
+- Under review
+
+Status must update automatically.
+
+
+Rule G5 — Duration Visibility  
+Remaining duration must be visible at all times.
+
+Countdown is mandatory.
+Silence is interference.
+
+
+VI. CLASSIFICATION AND SECRECY
+
+Rule G6 — Secrecy Boundary  
+Classification may limit:
+- Operational detail
+- Tactical methods
+- Personal identifiers
+
+Classification may not limit:
+- Existence
+- Cost range
+- Duration
+- Authorizing authority
+- Oversight body
+
+
+VII. LEDGER INTEGRITY
+
+Rule G7 — Tamper Resistance  
+Public ledger entries must be immutable once published.
+
+Corrections require:
+- Additive entries
+- Version history
+- Public timestamping
+
+
+Rule G8 — Independent Replication  
+Ledger data must be independently replicable.
+
+Single-point custody is prohibited.
+
+
+VIII. ACCESSIBILITY
+
+Rule G9 — Universal Access  
+The public ledger must be:
+- Freely accessible
+- Machine-readable
+- Human-readable
+- Searchable
+
+No paywalls.
+No credentials.
+No gatekeepers.
+
+
+IX. ENFORCEMENT
+
+Rule G10 — Automatic Invalidity  
+Actions taken under undisclosed or misrepresented authority are void.
+
+
+Rule G11 — Personal Liability  
+Officials who conceal, falsify, or delay disclosure lose immunity protections.
+
+
+X. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Executive orders
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+Transparency is prior to trust.
+
+
+XI. SYSTEM INTEGRATION
+
+This Control governs:
+- Budgetary activity
+- Monetary operations
+- Trusts and lockboxes
+- Taxation systems
+- Enforcement actions
+- All AGCL authorities
+
+No node is exempt.
+
+
+XII. DECLARATION
+
+What cannot be seen cannot be consented to.
+
+This Control ensures authority remains visible, finite, and accountable.

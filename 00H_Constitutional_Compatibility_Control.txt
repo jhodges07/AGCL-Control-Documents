@@ -1,0 +1,167 @@
+00H — Constitutional Compatibility Control
+American Gold Contract for Liberty (AGCL)
+Status: Foundational Control
+Scope: All AGCL-governed authorities, programs, funds, taxes, debts, enforcement actions, and delegated powers
+
+
+I. PURPOSE
+
+This Control ensures that all AGCL mechanisms operate strictly within constitutional authority.
+
+No program may exceed enumerated powers.
+No necessity claim may replace legality.
+No convenience may override constitutional limits.
+
+If authority cannot be traced to the Constitution, it does not exist.
+
+
+II. GOVERNING PRINCIPLE
+
+Structure precedes intent.
+
+Good outcomes do not legalize bad authority.
+Emergencies do not create powers.
+Silence does not imply permission.
+
+
+III. DEFINITIONS
+
+Enumerated Authority  
+A power explicitly granted to the federal government by the United States Constitution.
+
+Non-Delegation  
+The principle that Congress may not transfer its lawmaking authority to agencies or external entities.
+
+Compatibility  
+Conformity with constitutional text, structure, and binding amendments.
+
+
+IV. AUTHORITY TRACEABILITY REQUIREMENT
+
+Rule H1 — Mandatory Constitutional Citation  
+Every AGCL node must explicitly cite:
+- The constitutional article
+- The specific section and clause
+- Any relevant amendment
+
+Absent citation renders the node invalid.
+
+
+Rule H2 — No Implied Powers  
+Authority may not be inferred from:
+- General welfare language
+- Administrative precedent
+- Historical practice
+- Judicial tolerance
+
+Only explicit grants apply.
+
+
+V. NON-DELEGATION ENFORCEMENT
+
+Rule H3 — Delegation Prohibition  
+Legislative authority may not be delegated to:
+- Administrative agencies
+- Independent boards
+- NGOs or private entities
+- International bodies
+
+Execution may be delegated.
+Authority may not.
+
+
+Rule H4 — Rulemaking Limits  
+Rules may implement law.
+They may not create law.
+
+Rules exceeding statutory authority are void.
+
+
+VI. DUE PROCESS AND PROPERTY PROTECTION
+
+Rule H5 — Due Process Requirement  
+No AGCL mechanism may deprive a citizen of:
+- Life
+- Liberty
+- Property
+
+Absent due process of law.
+
+
+Rule H6 — Property Rights Compatibility  
+Any action affecting property must comply with:
+- Takings Clause
+- Just compensation
+- Clear title rules
+
+Administrative seizure is prohibited.
+
+
+VII. TAXATION AND SPENDING COMPATIBILITY
+
+Rule H7 — Tax Authority Limitation  
+Taxes must be:
+- Explicitly authorized
+- Uniform within scope
+- Non-retroactive
+
+Hidden or indirect taxation is prohibited.
+
+
+Rule H8 — Spending Limitation  
+Spending must align with enumerated authority.
+
+Redistribution without explicit constitutional authorization is prohibited.
+
+
+VIII. JUDICIAL AND LEGAL CONFLICT HANDLING
+
+Rule H9 — Conflict Surfacing  
+Any constitutional conflict must be surfaced immediately.
+
+Suppression of conflict is interference.
+
+
+Rule H10 — Severability Requirement  
+Unconstitutional components are severed automatically.
+
+Remaining lawful components may continue.
+
+
+IX. ENFORCEMENT
+
+Rule H11 — Automatic Invalidity  
+Any action lacking constitutional authority is void.
+
+
+Rule H12 — Personal Liability  
+Officials acting outside constitutional bounds lose immunity protections.
+
+
+X. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+The Constitution is prior to governance.
+
+
+XI. SYSTEM INTEGRATION
+
+This Control governs:
+- All AGCL control documents
+- All policy nodes
+- All fiscal and monetary systems
+- All enforcement actions
+
+No AGCL component is exempt.
+
+
+XII. DECLARATION
+
+The Constitution is not a suggestion.
+
+This Control ensures AGCL operates as law, not aspiration.
